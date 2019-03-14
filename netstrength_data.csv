@@ -1,0 +1,8 @@
+Material, MIN (dBm), AVG (dBm), MAX (dBm)
+Control (No Interference)  , -37, -38, -40
+Copper Sheet               , -42, -43, -48
+Aluminum Sheet             , -43, -44, -45
+Steel Sheet                , -38, -39, -41
+Copper Sheet w/ RF Fabric  , -43, -45, -47
+Aluminum Sheet w/ RF Fabric, -48, -50, -53
+Steel Sheet w/ RF Fabric   , -40, -45, -44
