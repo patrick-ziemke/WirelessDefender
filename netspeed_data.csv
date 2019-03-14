@@ -1,0 +1,8 @@
+Material, Trial1Min, Trial1Avg, Trial1Max, Trial2Min, Trial2Avg, Trial2Max, Trial3Min, Trial3Avg, Trial3Max
+ Control (No Interference)  , 1.107, 2.875, 7.671 , 0.889, 2.642, 5.309 , 2.113, 3.463,    12.610   
+ Copper Sheet               , 1.117, 2.921, 9.456 , 1.481, 3.985, 39.909, 1.375, 3.090, 3.883
+ Aluminum Sheet             , 1.115, 2.788, 4.134 , 1.307, 2.990, 6.108 , 1.188, 2.684, 5.056
+ Steel Sheet                , 1.341, 3.218, 4.215 , 1.083, 2.798, 5.499 , 1.378, 3.159, 4.291
+ Copper Sheet w/ RF Fabric  , 1.116, 4.576, 84.406, 1.776, 3.333, 11.343, 1.313, 3.351, 13.165
+ Aluminum Sheet w/ RF Fabric, 0.960, 3.088, 23.546, 1.197, 2.869, 4.112 , 1.169, 3.032, 4.589
+ Steel Sheet w/ RF Fabric   , 1.127, 2.900, 4.534 , 1.281, 3.220, 13.616, 0.987, 2.639, 3.605
